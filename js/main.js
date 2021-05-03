@@ -33,16 +33,16 @@ $(document).ready(function(){
 
  
     var typed = new Typed(".typing", {
-strings: ["Full-stack developer", "Moringa School Alumni", "Freelancer"],
-        typeSpeed: 100,
-        backSpeed: 60,
+strings: ["Full-stack developer","Statistician", "Moringa School Alumni", "Freelancer"],
+        typeSpeed: 70,
+        backSpeed: 50,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Full-stack developer", "Moringa School Alumni", "Freelancer"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        strings: ["Full-stack developer","Statistician", "Moringa School Alumni", "Freelancer"],
+        typeSpeed: 50,
+        backSpeed: 30,
         loop: true
     });
 
