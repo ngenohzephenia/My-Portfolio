@@ -33,14 +33,14 @@ $(document).ready(function(){
 
  
     var typed = new Typed(".typing", {
-strings: ["Full-stack developer","Statistician", "Moringa School Alumni", "Freelancer"],
+strings: ["Full-stack developer","Statistician","Freelancer", "Moringa School Alumni","Meru University Of Science And Technolgy Alumni" ],
         typeSpeed: 70,
         backSpeed: 50,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Full-stack developer","Statistician", "Moringa School Alumni", "Freelancer"],
+        strings: ["Full-stack developer","Statistician","Freelancer", "Moringa School Alumni","Meru University Of Science And Technolgy Alumni"],
         typeSpeed: 50,
         backSpeed: 30,
         loop: true
